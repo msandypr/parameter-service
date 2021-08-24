@@ -1,0 +1,13 @@
+#server:
+#  port: 3355
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://101.50.2.9:5433/b2camp_db_group_c
+#    username: b2camp_user
+#    password: b2camp_password
+#    driver-class-name: org.postgresql.Driver
+#  jpa:
+#    database-platform: org.hibernate.dialect.PostgreSQLDialect
+#    show-sql: false
+#    hibernate:
+#      ddl-auto: update
